@@ -1,6 +1,6 @@
 {
-    "name": "myproject",
-    "short_name": "myproject",
+    "name": "tracker",
+    "short_name": "tracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
